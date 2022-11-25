@@ -1,0 +1,8 @@
+#home {
+    height: 100vh;
+    min-height: 500px;
+    background: url(../img/bg.webp) no-repeat center;
+    background-color: #ccc;
+    background-size: cover;
+    background-attachment: fixed;
+  }
